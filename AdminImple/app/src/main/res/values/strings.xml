@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdminImple</string>
+    <string-array name="Heading">
+
+        <item>Transaction</item>
+        <item>Purchase</item>
+        <item>Reciept</item>
+        <item>Item List</item>
+    </string-array>
+</resources>
